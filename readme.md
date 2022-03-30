@@ -1,5 +1,6 @@
 # 🗿 Welcome to my profile 🗿
 <img src="https://media.giphy.com/media/poqnyDbavYXgA/giphy.gif" width="max" height="max" />
+
 -My name is Flynn and I am studying web design and development at NMIT.
 
 -I enjoy gaming 🎮, basketball 🏀 and motorsports 🏎️.
