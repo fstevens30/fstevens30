@@ -5,6 +5,6 @@
 
 -I enjoy gaming 🎮, basketball 🏀 and motorsports 🏎️.
 
--I want to learn more about frontend development and UI/UX design.
+-I want to learn more about UI/UX design and data analysis.
 
 [![Flynn's GitHub stats](https://github-readme-stats.vercel.app/api?username=fstevens30)](https://github.com/fstevens30/github-readme-stats)
