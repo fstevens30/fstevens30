@@ -1,5 +1,4 @@
 # 🗿 Welcome to my profile 🗿
-<img src="https://media.giphy.com/media/poqnyDbavYXgA/giphy.gif" width="max" height="max" />
 
 - My name is Flynn and I am studying web design and development at NMIT.
 
@@ -7,7 +6,10 @@
 
 - I want to learn more about UI/UX design and data analysis.
 
-- I currently have a basic understanding of the following languages with more to come.
+<img src="https://media.giphy.com/media/poqnyDbavYXgA/giphy.gif" width="max" height="max" />
+
+## I currently have a basic understanding of the following languages with more to come. 
+
 - HTML 📄
 - CSS 🎨
 - JavaScript 🏫
