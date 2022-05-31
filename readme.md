@@ -8,15 +8,9 @@
 
 - I want to learn more about UI/UX design and data analysis.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fstevens30)](https://github.com/anuraghazra/github-readme-stats)
+
 <img src="https://media.giphy.com/media/poqnyDbavYXgA/giphy.gif" width="max" height="max" />
-
-## I currently have a basic understanding of the following languages with more to come. 
-
-- HTML 📄
-- CSS 🎨
-- JavaScript 🏫
-- Python 🐍
-- C# 🎮
 
 [![Flynn's GitHub stats](https://github-readme-stats.vercel.app/api?username=fstevens30&show_icons=true&theme=midnight-purple&count_private=true&include_all_commits=true)](https://github.com/fstevens30/github-readme-stats)
 
