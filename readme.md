@@ -10,7 +10,7 @@
 
 - I want to learn more about UI/UX design and data analysis.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fstevens30&theme=midnight-purple)](https://github.com/fstevens30/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fstevens30&theme=midnight-purple)](https://github.com/fstevens30)
 
 <img src="https://media.giphy.com/media/poqnyDbavYXgA/giphy.gif" width="max" height="max" />
 
