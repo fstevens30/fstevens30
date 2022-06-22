@@ -10,8 +10,6 @@
 
 - I want to learn more about UI/UX design and data analysis.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fstevens30&theme=midnight-purple)](https://github.com/fstevens30)
-
 ## Currently learning/working with the following languages,
 
 - HTML 
@@ -19,5 +17,7 @@
 - JavaScript
 - C#
 - Python
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fstevens30&theme=midnight-purple)](https://github.com/fstevens30)
 
 [![Flynn's GitHub stats](https://github-readme-stats.vercel.app/api?username=fstevens30&show_icons=true&theme=midnight-purple&count_private=true&include_all_commits=true)](https://github.com/fstevens30/github-readme-stats)
