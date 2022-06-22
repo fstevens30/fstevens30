@@ -20,6 +20,6 @@
 - C#
 - Python
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fstevens30&layout=compact&theme=midnight-purple)](https://github.com/fstevens30)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fstevens30&theme=midnight-purple)](https://github.com/fstevens30)
 
 [![Flynn's GitHub stats](https://github-readme-stats.vercel.app/api?username=fstevens30&show_icons=true&theme=midnight-purple&count_private=true&include_all_commits=true)](https://github.com/fstevens30/github-readme-stats)
