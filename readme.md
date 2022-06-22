@@ -2,7 +2,9 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${fstevens30})
 
-- My name is Flynn and I am studying web design and development at NMIT.
+- My name is Flynn Stevens, I am from Invercargill, New Zealand.
+
+- I am currently studying my Diploma in Web design and development at NMIT, Nelson, New Zealand.
 
 - I am interesting in learning about Data Science.
 
