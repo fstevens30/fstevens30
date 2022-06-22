@@ -19,9 +19,5 @@
 - JavaScript
 - C#
 - Python
-- 
-<img src="https://media.giphy.com/media/poqnyDbavYXgA/giphy.gif" width="max" height="max" />
 
 [![Flynn's GitHub stats](https://github-readme-stats.vercel.app/api?username=fstevens30&show_icons=true&theme=midnight-purple&count_private=true&include_all_commits=true)](https://github.com/fstevens30/github-readme-stats)
-
-
