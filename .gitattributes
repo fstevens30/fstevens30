@@ -1,3 +1,4 @@
 *.sql linguist-detectable=true
 *.php linguist-detectable=true
 *.sql linguist-language=sql
+*.md linguist-detectable=true
