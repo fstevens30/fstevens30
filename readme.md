@@ -20,7 +20,7 @@ I want to learn more about UI/UX design and data analysis.
 <img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="50px" height="50px"><img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" width="60px" height="60px"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="60px" height="60px"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="50px" height="50px"><img src="https://github.com/get-icon/geticon/raw/master/icons/c-sharp.svg" alt="C#" width="50px" height="50px">
   </p>
 <p align="center">
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fstevens30&theme=react&count_private=true&langs_count=10&layout=compact&hide_border=true" />
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fstevens30&theme=react&count_private=true&langs_count=10&layout=compact&hide_border=true&hide=c%2B%2B" />
 </p>
 <p align="center">
 <img width="60%" src="https://github-readme-stats.vercel.app/api?username=fstevens30&show_icons=true&theme=react&count_private=true&include_all_commits=true&hide_border=true)](https://github.com/fstevens30/github-readme-stats"/>
