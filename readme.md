@@ -10,7 +10,7 @@ I am interesting in learning about Data Science and Front-End web development.
 <br>
 I enjoy gaming 🎮, basketball 🏀 and motorsports 🏎️.
 <br>
-I want to learn more about UI/UX design and data analysis. I am spedning time learning SQL and excel as well as making responsive websites and applications.
+I want to learn more about UI/UX design and data analysis. I am spending my free time learning SQL and excel as well as making responsive websites and applications.
 </p>
 <p align="center">
 <a href="https://www.linkedin.com/in/flynn-stevens-6b9314232/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href ="https://fstevens30.github.io/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a><a href="https://www.instagram.com/flynn.a.stevens/?hl=en"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
