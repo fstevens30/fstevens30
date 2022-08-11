@@ -48,7 +48,7 @@ I spend my free time coding and learning as much as I can about web development.
 <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=fstevens30&theme=react&count_private=true&hide_border=true&include_all_commits=true"/>
 <br>
 <details>
-  <summary><h1>My Workspace</h1></summary>
+  <summary>My Workspace</summary>
 <h2 align="center">Laptop</h2>
 <p align="center">
 <img src="https://img.shields.io/badge/Apple-MacBook_Pro_2018-999999?style=for-the-badge&logo=apple&logoColor=white">
