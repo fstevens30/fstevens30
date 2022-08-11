@@ -39,10 +39,17 @@ I spend my free time coding and learning as much as I can about web development.
 <a href="https://www.instagram.com/flynn.a.stevens/?hl=en"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/flynnthesloth/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
 
-<h2 align="center">Currently learning/working with the following languages<h2>
+<h1 align="center">Currently learning/working with following<h1>
   <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="70px" height="70px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="70px" height="70px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="70px" height="70px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="70px" height="70px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="70px" height="70px">
   </p>
+ <p align="center">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="70px" height="70px" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+
+
+  </p>
+<h1 align="center">My stats<h1>
 <p align="center">
 <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fstevens30&theme=react&count_private=true&langs_count=10&layout=compact&hide_border=true&hide=c%2B%2B&show=sql,php" />
 </p>
