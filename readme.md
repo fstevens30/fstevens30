@@ -4,25 +4,31 @@ Flynn Stevens
 <p align="center">
 Hi, I'm Flynn, I am from Invercargill, New Zealand.
 <br>
-I am currently studying my Diploma in Web design and development at NMIT, Nelson, New Zealand.
+I am currently studying my Diploma in Web design and development at NMIT, Nelson, New Zealand. 👨‍🎓 
 <br>
-I am interesting in learning about Data Science and Front-End web development.
+I work part time at a supermarket as a merchandiser, storeroom worker and delivery driver. 🚐
 <br>
-I enjoy gaming 🎮, basketball 🏀 and motorsports 🏎️.
+I enjoy gaming 🎮, basketball 🏀 and motorsports 🏎️
 <br>
-I want to learn more about UI/UX design and data analysis. I am spending my free time learning SQL and excel as well as making responsive websites and applications.
+I want to learn more about front-end web development and data analysis/data science. I would also like to learn React. 🧪
+<br>
+I spend my free time coding and learning as much as I can about web development. 💻
 </p>
 <br>
 <h1 align="center">My Workspace</h1>
 <h2 align="center">Laptop</h2>
 <p align="center">
 <img src="https://img.shields.io/badge/Apple-MacBook_Pro_2018-999999?style=for-the-badge&logo=apple&logoColor=white">
+<img src="https://img.shields.io/badge/Intel-Core_i5_Quad_Core_2.3Ghz-0071C5?style=for-the-badge&logo=intel&logoColor=white">
+<img src="https://img.shields.io/badge/RAM-16_GB_2133MHz-red?style=for-the-badge&logoColor=white">
 </p>
 <h2 align="center">Home PC</h2>
 <p align="center">
 <img src="https://img.shields.io/badge/Intel-Core_i5_10400F-0071C5?style=for-the-badge&logo=intel&logoColor=white">
 <img src="https://img.shields.io/badge/NVIDIA-RTX3060_TI-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
-<img src="https://img.shields.io/badge/RAM-16_GB_3200MHz-red?style=for-the-badge&logo=pcb&logoColor=white">
+<img src="https://img.shields.io/badge/Kingston-16_GB_3200MHz-000000?style=for-the-badge&l&logo=kingstontechnology&logoColor=white">
+<img src="https://img.shields.io/badge/Samsung-980_NVMe_500GB-1428A0?style=for-the-badge&l&logo=samsung&logoColor=white">
+<img src="https://img.shields.io/badge/NZXT-H510_Flow_White-51007A?style=for-the-badge&l&logo=nzxt&logoColor=white">
 <img src="https://img.shields.io/badge/Windows-10-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 </p>
 <br>
