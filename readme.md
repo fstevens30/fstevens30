@@ -12,8 +12,26 @@ I enjoy gaming 🎮, basketball 🏀 and motorsports 🏎️.
 <br>
 I want to learn more about UI/UX design and data analysis. I am spending my free time learning SQL and excel as well as making responsive websites and applications.
 </p>
+<br>
+<h1 align="center">My Workspace</h1>
+<h2 align="center">Laptop</h2>
 <p align="center">
-<a href="https://www.linkedin.com/in/flynn-stevens-6b9314232/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href ="https://fstevens30.github.io/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a><a href="https://www.instagram.com/flynn.a.stevens/?hl=en"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Apple-MacBook_Pro_2018-999999?style=for-the-badge&logo=apple&logoColor=white">
+</p>
+<h2 align="center">Home PC</h2>
+<p align="center">
+<img src="https://img.shields.io/badge/Intel-Core_i5_10400F-0071C5?style=for-the-badge&logo=intel&logoColor=white">
+<img src="https://img.shields.io/badge/NVIDIA-RTX3060_TI-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
+<img src="https://img.shields.io/badge/RAM-16_GB_3200MHz-red?style=for-the-badge&logo=pcb&logoColor=white">
+<img src="https://img.shields.io/badge/Windows-10-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+</p>
+<br>
+<h1 align="center">Contact Me</h1>
+<p align="center">
+<a href="https://www.linkedin.com/in/flynn-stevens-6b9314232/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> 
+<a href ="https://fstevens30.github.io/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+<a href="https://www.instagram.com/flynn.a.stevens/?hl=en"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/flynnthesloth/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
 
 <h2 align="center">Currently learning/working with the following languages<h2>
   <p align="center">
