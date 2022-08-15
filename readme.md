@@ -65,4 +65,4 @@ I spend my free time coding and learning as much as I can about web development.
 <img src="https://img.shields.io/badge/Windows-10-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 </p>
  </details>
-
+<figure><embed src="https://wakatime.com/share/@b2d63d84-2584-4154-b686-a64b6fb2bf87/ddee701c-3e8c-45cf-9dc5-a39ce1b99891.svg"></embed></figure>
