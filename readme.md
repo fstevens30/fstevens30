@@ -35,7 +35,7 @@ I spend my free time coding and learning as much as I can about web development.
   </p>
 <h1 align="center">My stats<h1>
 <p align="center">
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fstevens30&theme=react&count_private=true&langs_count=8&layout=compact&hide_border=true" />
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fstevens30&theme=react&count_private=true&langs_count=12&layout=default&hide_border=true" />
 </p>
 <p align="center">
 <img width="60%" src="https://github-readme-stats.vercel.app/api?username=fstevens30&show_icons=true&theme=react&count_private=true&include_all_commits=true&hide_border=true)](https://github.com/fstevens30/github-readme-stats"/>
