@@ -3,10 +3,10 @@
 
 ## I am studying my Diploma in Web Design & Development.
 
-![WEBSITE](https://img.shields.io/badge/_Website-yellow?style=for-the-badge&logo=github&logoColor=white)
-![EMAIL](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)
-![MESSENGER](https://img.shields.io/badge/_Website-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)
-![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+<a href="https://fstevens30.github.io/"><img src="https://img.shields.io/badge/_Website-yellow?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="mailto:flynnstevens30@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.instagram.com/flynn.a.stevens/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://m.me/flynnthesloth"><img src="https://img.shields.io/badge/_Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white"></a>
 
 --------------------------
 
@@ -24,13 +24,13 @@
 
 ## Workspace
 
-Home Desktop 
+### Home Desktop 
 
 ![CPU](https://img.shields.io/badge/_-i5_10400F-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![GPU](https://img.shields.io/badge/_-RTX_3060TI-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![RAM](https://img.shields.io/badge/_-16GB_3200Mhz_Fury-FF0000?style=for-the-badge&logo=kingstontechnology&logoColor=white)
 ![CASE](https://img.shields.io/badge/_-H510_Flow-51007A?style=for-the-badge&logo=nzxt&logoColor=white)
 
-Personal Laptop
+### Personal Laptop
 
 ![BRAND](https://img.shields.io/badge/_-13inch_MacBook_Pro_2018-FFFFFF?style=for-the-badge&logo=apple&logoColor=A3AAAE)
