@@ -28,3 +28,4 @@ Home Desktop
 
 Personal Laptop
 
+![BRAND](https://img.shields.io/badge/_-13inch_MacBook_Pro_2018-FFFFFF?style=for-the-badge&logo=apple&logoColor=A3AAAE)
