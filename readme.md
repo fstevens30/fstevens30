@@ -8,8 +8,6 @@
 <a href="https://www.instagram.com/flynn.a.stevens/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://m.me/flynnthesloth"><img src="https://img.shields.io/badge/_Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white"></a>
 
---------------------------
-
 - I am interested in all things front-end :art:
 - I want to learn more about React and Swift :thought_balloon:
 - I am looking to collaborate on anything! :smile:
@@ -34,3 +32,7 @@
 ### Personal Laptop
 
 ![BRAND](https://img.shields.io/badge/_-13inch_MacBook_Pro_2018-FFFFFF?style=for-the-badge&logo=apple&logoColor=A3AAAE)
+
+----------------------------
+
+## More links
