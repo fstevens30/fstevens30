@@ -19,5 +19,12 @@
 
 ## Workspace
 
-- Home Desktop:
-![CPU](https://img.shields.io/static/v1?label=i5&message=10400F&color=blue&style=for-the-badge&logo=intel&)
+Home Desktop 
+
+![CPU](https://img.shields.io/badge/_-i5_10400F-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![GPU](https://img.shields.io/badge/_-RTX_3060TI-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![RAM](https://img.shields.io/badge/_-16GB_3200Mhz_Fury-FF0000?style=for-the-badge&logo=kingstontechnology&logoColor=white)
+![CASE](https://img.shields.io/badge/_-H510_Flow-51007A?style=for-the-badge&logo=nzxt&logoColor=white)
+
+Personal Laptop
+
