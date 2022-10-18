@@ -3,6 +3,11 @@
 
 ## I am studying my Diploma in Web Design & Development.
 
+![WEBSITE](https://img.shields.io/badge/_Website-yellow?style=for-the-badge&logo=github&logoColor=white)
+![EMAIL](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)
+![MESSENGER](https://img.shields.io/badge/_Website-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)
+![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+
 --------------------------
 
 - I am interested in all things front-end :art:
