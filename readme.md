@@ -7,7 +7,7 @@
 
 - I am interested in all things front-end :art:
 - I want to learn more about React and Swift :thought_balloon:
-- I am looking to collaborate on anything! :happy:
+- I am looking to collaborate on anything! :smile:
 
 --------------------------
 
