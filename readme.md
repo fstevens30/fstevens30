@@ -12,7 +12,7 @@
 - I want to learn more about React and Swift :thought_balloon:
 - I am looking to collaborate on anything! :smile:
 
-![Flynn's GitHub stats](https://github-readme-stats.vercel.app/api?username=fstevens30&count_private=true&show_icons=true&theme=dracula&hide_border=true&card_width=400px)
+![Flynn's GitHub stats](https://github-readme-stats.vercel.app/api?username=fstevens30&count_private=true&show_icons=true&theme=dracula&hide_border=true&card_width=300px)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fstevens30&count_private=true&theme=dracula&hide_border=true&layout=compact)
 
