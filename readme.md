@@ -11,7 +11,6 @@
 - I am interested in all things front-end :art:
 - I want to learn more about React and Swift :thought_balloon:
 - I am looking to collaborate on anything! :smile:
-- I love nature and animals, I'm a proud vegan. :cow:
 
 ![Flynn's GitHub stats](https://github-readme-stats.vercel.app/api?username=fstevens30&count_private=true&show_icons=true&theme=dracula&hide_border=true&card_width=300px)
 
