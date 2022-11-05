@@ -12,6 +12,7 @@
 - I want to learn more about React and Swift :thought_balloon:
 - I am looking to collaborate on anything! :smile:
 - Currently living in Nelson, New Zealand :sun_with_face:
+- I am planning to continue my education by getting my Bachelors in IT (Software Development) :school:
 
 ![Flynn's GitHub stats](https://github-readme-stats.vercel.app/api?username=fstevens30&count_private=true&show_icons=true&theme=dracula&hide_border=true&card_width=300px)
 
