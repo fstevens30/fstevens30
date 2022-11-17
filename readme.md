@@ -14,6 +14,12 @@
 - Currently living in Nelson, New Zealand :sun_with_face:
 - I am planning to continue my education by getting my Bachelors in IT (Software Development) :school:
 
+### Currently working on
+
+- A to-do list application using Firebase.
+- Learning everything!
+- A WordPress site for a local photographer.
+
 ![Flynn's GitHub stats](https://github-readme-stats.vercel.app/api?username=fstevens30&count_private=true&show_icons=true&theme=dracula&hide_border=true&card_width=300px)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fstevens30&count_private=true&theme=dracula&hide_border=true&layout=compact)
