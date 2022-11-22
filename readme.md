@@ -16,7 +16,7 @@
 
 ### Currently working on
 
-- A to-do list application using Firebase.
+- A to-do list application called OmniFocus using Firebase and Heroku.
 - Learning everything!
 - A WordPress site for a local photographer.
 
