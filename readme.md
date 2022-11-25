@@ -16,8 +16,8 @@
 
 ### Currently working on
 
-- A to-do list application called OmniFocus using Firebase and Heroku.
-- Learning everything!
+- Refining all of my larger projects.
+- Learning more about Python.
 - A WordPress site for a local photographer.
 
 ![Flynn's GitHub stats](https://github-readme-stats.vercel.app/api?username=fstevens30&count_private=true&show_icons=true&theme=dracula&hide_border=true&card_width=300px)
