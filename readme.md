@@ -1,7 +1,7 @@
 # Kia Ora, I'm Flynn!
 -------------------------
 
-## I am studying my Diploma in Web Design & Development.
+## I am studying my Bachelors in IT (Software Development).
 
 <a href="https://fstevens30.github.io/"><img src="https://img.shields.io/badge/_Website-yellow?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="mailto:flynnstevens30@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -11,15 +11,12 @@
 - I am interested in all things front-end :art:
 - I want to learn more about React and Swift :thought_balloon:
 - I am looking to collaborate on anything! :smile:
-- Currently living in Nelson, New Zealand :sun_with_face:
-- I am planning to continue my education by getting my Bachelors in IT (Software Development) :school:
+- Currently living in Christchurch, New Zealand :sun_with_face:
 
 ### Currently working on
 
 - Refining all of my larger projects.
-- Learning more about Python.
-- Refreshing my portfolio site.
-- A WordPress site for a local photographer.
+- Learning more about Swift.
 
 ![Flynn's GitHub stats](https://github-readme-stats.vercel.app/api?username=fstevens30&count_private=true&show_icons=true&theme=dracula&hide_border=true&card_width=300px)
 
