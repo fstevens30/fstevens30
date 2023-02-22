@@ -1,7 +1,7 @@
 # Kia Ora, I'm Flynn!
 -------------------------
 
-## I am studying my Bachelors in IT (Software Development).
+## I am studying Bachelor of Information and Communication Technologies.
 
 <a href="https://fstevens30.github.io/"><img src="https://img.shields.io/badge/_Website-yellow?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="mailto:flynnstevens30@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
