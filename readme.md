@@ -9,14 +9,14 @@
 <a href="https://m.me/flynnthesloth"><img src="https://img.shields.io/badge/_Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white"></a>
 
 - I am interested in all things front-end :art:
-- I want to learn more about React and Swift :thought_balloon:
+- I want to learn more about React Native specifically for iOS development. :thought_balloon:
 - I am looking to collaborate on anything! :smile:
 - Currently living in Christchurch, New Zealand :sun_with_face:
 
 ### Currently working on
 
 - Refining all of my larger projects.
-- Learning more about Swift.
+- Learning everything!
 
 ![Flynn's GitHub stats](https://github-readme-stats.vercel.app/api?username=fstevens30&count_private=true&show_icons=true&theme=dracula&hide_border=true&card_width=300px)
 
