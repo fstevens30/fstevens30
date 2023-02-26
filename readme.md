@@ -20,7 +20,7 @@
 
 ![Flynn's GitHub stats](https://github-readme-stats.vercel.app/api?username=fstevens30&count_private=true&show_icons=true&theme=dracula&hide_border=true&card_width=300px)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fstevens30&count_private=true&theme=dracula&hide_border=true&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fstevens30&count_private=true&theme=dracula&hide_border=true&layout=compact&hide=html,css)
 
 
 
