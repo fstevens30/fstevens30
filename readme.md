@@ -20,7 +20,7 @@
 
 ![Flynn's GitHub stats](https://github-readme-stats.vercel.app/api?username=fstevens30&count_private=true&show_icons=true&theme=transparent&hide_border=true&card_width=300px)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fstevens30&count_private=true&theme=transparent&hide_border=true&layout=compact&hide=html,css)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fstevens30&count_private=true&theme=transparent&hide_border=true&layout=compact&hide=html,css,c,objective-c%0A)
 
 ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=fstevens30&layout=compact&theme=transparent&hide_border=true)
 
