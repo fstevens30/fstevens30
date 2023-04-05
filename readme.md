@@ -14,9 +14,9 @@
 - Currently living in Christchurch, New Zealand :sun_with_face:
 
 [![wakatime](https://wakatime.com/badge/user/b2d63d84-2584-4154-b686-a64b6fb2bf87.svg)](https://wakatime.com/@b2d63d84-2584-4154-b686-a64b6fb2bf87)
-
+<!--
 [![Leetcode Stats](https://leetcard.jacoblin.cool/fstevens30?theme=nord)](https://leetcode.com/fstevens30)
-
+-->
 ### Currently working on
 
 - Refining all of my larger projects.
