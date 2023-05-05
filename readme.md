@@ -26,7 +26,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fstevens30&count_private=true&theme=transparent&hide_border=true&layout=compact&hide=c,objective-c%0A&langs_count=6)
 
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=fstevens30&layout=compact&theme=transparent&hide_border=true&langs_count=6)
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=fstevens30&theme=transparent&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time&hide=other)
 
 
 
