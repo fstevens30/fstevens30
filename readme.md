@@ -9,7 +9,7 @@
 <a href="https://m.me/flynnthesloth"><img src="https://img.shields.io/badge/_Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white"></a>
 
 - I am interested in all things software development :art:
-- I want to learn more about React and React Native specifically for iOS development. :thought_balloon:
+- I want to learn more about mobile devlopment for iOS with SwiftUI :thought_balloon:
 - I am looking to collaborate on anything! :smile:
 - Currently living in Christchurch, New Zealand :sun_with_face:
 
@@ -19,14 +19,14 @@
 -->
 ### Currently working on
 
-- Refining all of my larger projects.
-- Learning everything!
+- Learning SwiftUI.
+- Working towrds my degree.
 
 ![Flynn's GitHub stats](https://github-readme-stats.vercel.app/api?username=fstevens30&count_private=true&show_icons=true&theme=transparent&hide_border=true&card_width=300px)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fstevens30&count_private=true&theme=transparent&hide_border=true&layout=compact&hide=c,objective-c%0A&langs_count=6)
 
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=fstevens30&theme=transparent&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time&hide=other)
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=fstevens30&theme=transparent&hide_border=true&layout=compact&hide_title=true&langs_count=10&range=all_time&hide=other)
 
 
 
