@@ -2,7 +2,8 @@
 
 - Currently finishing my Bachelor of Information Technology at Ara Institute of Canterbury
 - Interested in mobile and web development, specifically iOS development.
-- Learning .NET MAUI and mapping libraries, like MapLibre.
+- Currently learning .NET MAUI.
+- Diving into mapping libraries, like MapLibre and Ferrostar.
 
 <br/>
 <p align="center">
