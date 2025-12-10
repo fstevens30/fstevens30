@@ -1,6 +1,6 @@
 # Kia Ora, I'm Flynn
 
-- Currently finishing my Bachelor of Information Technology at Ara Institute of Canterbury
+- Recent graduate in Bachelor of Information Technology at Ara Institute of Canterbury
 - Interested in mobile and web development, specifically iOS development.
 - Currently learning .NET MAUI.
 - Diving into mapping libraries, like MapLibre and Ferrostar.
