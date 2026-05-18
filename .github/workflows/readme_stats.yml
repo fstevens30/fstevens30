@@ -19,23 +19,15 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&theme=transparent
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=transparent&rank_icons=github&show_icons=true&incluse_all_commits=true
           path: profile/stats.svg
-          token: ${{ secrets.PAT_TOKEN }}
-
-      - name: Generate top languages card
-        uses: readme-tools/github-readme-stats-action@v1
-        with:
-          card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&langs_count=10&theme=transparent
-          path: profile/top-langs.svg
           token: ${{ secrets.PAT_TOKEN }}
 
       - name: Generate Wakatime card
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: wakatime
-          options: username=${{ github.repository_owner }}&layout=compact&langs_count=10&theme=transparent
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=12&theme=transparent&hide=other
 
       - name: Commit cards
         run: |
