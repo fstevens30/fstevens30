@@ -1,15 +1,8 @@
-# Kia Ora, I'm Flynn
+[![Website](https://img.shields.io/badge/%20-flynnstevens.dev-white?logo=readme)](https://www.flynnstevens.dev/)
+[![Twitter](https://img.shields.io/twitter/follow/flynnstevens30)](https://twitter.com/flynnstevens30)
+[![OpenStreetMap](https://img.shields.io/badge/%20-flynnstevens-white?logo=openstreetmap)](https://www.openstreetmap.org/user/flynnstevens)
+[![LinkedIn](https://img.shields.io/badge/%20-Flynn%20Stevens-white?logo=LogMeIn)](https://www.linkedin.com/in/fstevens30/)
 
-- Recent graduate in Bachelor of Information Technology at Ara Institute of Canterbury
-- Interested in mobile and web development, specifically iOS development.
-- Currently learning .NET MAUI.
-- Diving into mapping libraries, like MapLibre and Ferrostar.
-
-<br/>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,apple,tailwind,swift,github,supabase,ts,nextjs,docker,css,python,django,react,gitlab,cs,dotnet&perline=8" />
-  </a>
-</p>
-
-<a href="https://wakatime.com/@b2d63d84-2584-4154-b686-a64b6fb2bf87"><img src="https://wakatime.com/badge/user/b2d63d84-2584-4154-b686-a64b6fb2bf87.svg" alt="Total time coded since Jul 26 2022" /></a>
+- Full-stack developer at Contec Group International. Working on mapping for [MADCAP](https://madcapdairysoftware.com/).
+- Diving into mapping libraries, like MapLibre and Valhalla.
+- In my spare time I like working on smart home projects and homelab stuff.
