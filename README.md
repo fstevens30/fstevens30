@@ -1,0 +1,3 @@
+- 🧑‍💻 Software Developer at Contec Group International. Working on mapping for [MADCAP](https://madcapdairysoftware.com/).
+- 🗺️ Diving into mapping libraries, like MapLibre and Valhalla.
+- 🖥️ In my spare time I like working on smart home projects and homelab stuff.
